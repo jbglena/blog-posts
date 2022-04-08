@@ -1,0 +1,23 @@
+#root{
+    height: 100%;
+    background: aliceblue;
+    margin: 0;
+    padding: 0;
+}
+
+.principal-container{
+    width: 500px;
+    position: relative;
+    margin-left: 500px;
+}
+.ui.comments {
+     margin: 0em 28em !important;
+     max-width: 950px !important;
+}
+
+.ui.card{
+    min-height: 165px;
+}
+.profile-picture{
+    width: 100%;
+}
